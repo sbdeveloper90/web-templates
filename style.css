@@ -1,0 +1,86 @@
+:root {
+    /* Color Theme Swatches in Hex */
+    --SuperHi-Blog-Illustrations-1-hex : #F280B6;
+    --SuperHi-Blog-Illustrations-2-hex : #E89BF2;
+    --SuperHi-Blog-Illustrations-3-hex : #705CF2;
+    --SuperHi-Blog-Illustrations-4-hex : #191C59;
+    --SuperHi-Blog-Illustrations-5-hex : #52F26A;
+
+    --background-color: #f4f5f9;
+}
+
+* {
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--background-color);
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 47px 0 0 0;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+    flex-direction: column;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 33px 0;
+    background-color: var(--SuperHi-Blog-Illustrations-4-hex);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--SuperHi-Blog-Illustrations-3-hex);
+    margin-bottom: 17px;
+}
+
+p, span {
+    color: var(--SuperHi-Blog-Illustrations-4-hex);
+    margin-bottom: 11px;
+}
+
+a {
+    color: var(--SuperHi-Blog-Illustrations-1-hex) !important;
+    text-decoration: none;
+}
+
+table {
+    border-collapse: collapse;
+    width: 800px;
+}
+thead {
+    color: var(--SuperHi-Blog-Illustrations-3-hex);
+    font-weight: bold;
+    background-color: var(--SuperHi-Blog-Illustrations-4-hex);
+}
+tbody {
+    color: var(--SuperHi-Blog-Illustrations-4-hex);
+}
+th, td {
+    padding: 7px 13px;
+    border: 1px solid #dddddd;
+}
+
+#header_wrapper h1 {
+    font-size: 40px;
+}
+
+.section-wrapper {
+    text-align: center;
+    font-size: 20px;
+    max-width: 1300px;
+    margin: 50px 0;
+}
