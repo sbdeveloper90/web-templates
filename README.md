@@ -11,18 +11,30 @@ Illutrations in this pages are from [ManyPixels](https://www.manypixels.co/galle
 <br>
 
 |TEMPLATE NAME   |FRAMEWORK  |WEBSITE                                                              |LICENSE     |
-|----------------|-----------|---------------------------------------------------------------------|------------|  
-|conora          |Bootstrap  |[bootstrapdash](https://www.bootstrapdash.com/product/corona-free/)  |MIT License |
+|----------------|-----------|---------------------------------------------------------------------|------------|
+|agen            |Bootstrap  |[THEMEFISHER](https://themefisher.com/products/agen)                 |MIT License |  
+|conora          |Bootstrap  |[bootstrapdash](https://www.bootstrapdash.com/product/corona-free)  |MIT License |
+|galaxy          |Bootstrap  |[THEMEFISHER](https://themefisher.com/products/galaxy)               |MIT License |
 |new age         |Bootstrap  |[Start Bootstrap](https://startbootstrap.com/theme/new-age)          |MIT License |
 
 <br><br><br>
 
 ![Cover Image 2](img/Web_Developer_Isometric.png) <br>
 
+# AGEN
+:arrow_right: [Discover More](https://themefisher.com/products/agen) <br>
+
+<br><br><br>
+
 # CORONA
 Corona Free admin template has beautiful typography, crisp design, and neatly designed dashboards.<br>
 It features a huge selection of essential UI elements along with apps, forms, charts, tables, and more.<br>
-:arrow_right: [Discover More](https://www.bootstrapdash.com/product/corona-free/) <br>
+:arrow_right: [Discover More](https://www.bootstrapdash.com/product/corona-free) <br>
+
+<br><br><br>
+
+# GALAXY
+:arrow_right: [Discover More](https://themefisher.com/products/galaxy) <br>
 
 <br><br><br>
 
