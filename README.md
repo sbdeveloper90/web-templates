@@ -49,4 +49,4 @@ This theme features a bold, colorful design with various content sections that w
 # TECHIE
 Techie is a modern and stylish startup agency Bootstrap website template. It is best suited for contemporary web design studio and creative agency, marketing agency, advertising agency, web designer’s portfolio, creative digital design, graphic design website etc.<br>
 Techie has a clean and modern layout that makes it perfect for all kinds of businesses. It's equipped it with all the features that you need to create your stunning agency website in no time.<br>
-:arrow_right: [BOOTSTRAPMADE](https://bootstrapmade.com/techie-free-skin-bootstrap-3/) <br>
+:arrow_right: [Discover More](https://bootstrapmade.com/techie-free-skin-bootstrap-3/) <br>
