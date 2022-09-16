@@ -10,12 +10,13 @@ Illutrations in this pages are from [ManyPixels](https://www.manypixels.co/galle
 ## Templates Table
 <br>
 
-|TEMPLATE NAME   |FRAMEWORK  |WEBSITE                                                              |LICENSE     |
-|----------------|-----------|---------------------------------------------------------------------|------------|
-|agen            |Bootstrap  |[THEMEFISHER](https://themefisher.com/products/agen)                 |MIT License |  
-|conora          |Bootstrap  |[bootstrapdash](https://www.bootstrapdash.com/product/corona-free)  |MIT License |
-|galaxy          |Bootstrap  |[THEMEFISHER](https://themefisher.com/products/galaxy)               |MIT License |
-|new age         |Bootstrap  |[Start Bootstrap](https://startbootstrap.com/theme/new-age)          |MIT License |
+|TEMPLATE NAME   |FRAMEWORK  |WEBSITE                                                                    |LICENSE     |
+|----------------|-----------|---------------------------------------------------------------------------|------------|
+|agen            |Bootstrap  |[THEMEFISHER](https://themefisher.com/products/agen)                       |MIT License |  
+|conora          |Bootstrap  |[bootstrapdash](https://www.bootstrapdash.com/product/corona-free)         |MIT License |
+|galaxy          |Bootstrap  |[THEMEFISHER](https://themefisher.com/products/galaxy)                     |MIT License |
+|new age         |Bootstrap  |[Start Bootstrap](https://startbootstrap.com/theme/new-age)                |MIT License |
+|techie          |Bootstrap  |[BOOTSTRAPMADE](https://bootstrapmade.com/techie-free-skin-bootstrap-3/)   |            |
 
 <br><br><br>
 
@@ -42,3 +43,10 @@ It features a huge selection of essential UI elements along with apps, forms, ch
 New Age is a Bootstrap app landing page theme to help you beautifully showcase your web app or anything else!<br>
 This theme features a bold, colorful design with various content sections that will be an excellent boilerplate for your next Bootstrap based project!<br>
 :arrow_right: [Discover More](https://startbootstrap.com/theme/new-age) <br>
+
+<br><br><br>
+
+# TECHIE
+Techie is a modern and stylish startup agency Bootstrap website template. It is best suited for contemporary web design studio and creative agency, marketing agency, advertising agency, web designer’s portfolio, creative digital design, graphic design website etc.<br>
+Techie has a clean and modern layout that makes it perfect for all kinds of businesses. It's equipped it with all the features that you need to create your stunning agency website in no time.<br>
+:arrow_right: [BOOTSTRAPMADE](https://bootstrapmade.com/techie-free-skin-bootstrap-3/) <br>
